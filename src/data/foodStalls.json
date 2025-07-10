@@ -1,0 +1,144 @@
+[
+  {
+    "id": "stall_1",
+    "name": "Delicious Bites",
+    "location": {
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "address": "123 Food Street, Los Angeles, CA"
+    },
+    "dishes_offered": ["Spicy Noodles", "Dumplings", "Bubble Tea"],
+    "images": [
+      "stall_1_dish_1.jpg",
+      "stall_1_exterior.jpg"
+    ],
+    "youtube_recommendations": [
+      {
+        "blogger_name": "Foodie Adventures",
+        "video_title": "Best Street Food in LA!",
+        "video_url": "https://www.youtube.com/watch?v=example1#t=1m30s",
+        "summary": "Foodie Adventures raves about the spicy noodles, calling them a must-try for their unique flavor profile.",
+        "sentiment": "positive"
+      },
+      {
+        "blogger_name": "Taste Explorer",
+        "video_title": "LA Food Tour Day 2",
+        "video_url": "https://www.youtube.com/watch?v=example2#t=5m0s",
+        "summary": "Taste Explorer highlights the crispy dumplings and friendly service.",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "stall_2",
+    "name": "Sweet Treats",
+    "location": {
+      "latitude": 34.0500,
+      "longitude": -118.2500,
+      "address": "456 Dessert Lane, Los Angeles, CA"
+    },
+    "dishes_offered": ["Mango Sticky Rice", "Coconut Ice Cream"],
+    "images": [
+      "stall_2_dish_1.jpg"
+    ],
+    "youtube_recommendations": [
+      {
+        "blogger_name": "Dessert Diva",
+        "video_title": "Top 5 Desserts in LA",
+        "video_url": "https://www.youtube.com/watch?v=example3#t=2m10s",
+        "summary": "Dessert Diva highly recommends the mango sticky rice, praising its freshness and perfect sweetness.",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "stall_3",
+    "name": "Taco Paradise",
+    "location": {
+      "latitude": 34.0480,
+      "longitude": -118.2420,
+      "address": "789 Taco Street, Los Angeles, CA"
+    },
+    "dishes_offered": ["Fish Tacos", "Carnitas", "Horchata"],
+    "images": [
+      "stall_3_dish_1.jpg",
+      "stall_3_dish_2.jpg"
+    ],
+    "youtube_recommendations": [
+      {
+        "blogger_name": "Street Food King",
+        "video_title": "LA's Hidden Taco Gems",
+        "video_url": "https://www.youtube.com/watch?v=example4#t=3m45s",
+        "summary": "Street Food King calls this the best fish taco in LA, praising the fresh ingredients and authentic flavors.",
+        "sentiment": "positive"
+      },
+      {
+        "blogger_name": "Foodie Adventures",
+        "video_title": "Taco Tour LA",
+        "video_url": "https://www.youtube.com/watch?v=example5#t=2m15s",
+        "summary": "Foodie Adventures loves the carnitas and recommends trying the horchata as well.",
+        "sentiment": "positive"
+      },
+      {
+        "blogger_name": "LA Eats",
+        "video_title": "Best Mexican Food in LA",
+        "video_url": "https://www.youtube.com/watch?v=example6#t=4m20s",
+        "summary": "LA Eats features this spot for its authentic Mexican flavors and generous portions.",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "stall_4",
+    "name": "Burger Heaven",
+    "location": {
+      "latitude": 34.0530,
+      "longitude": -118.2460,
+      "address": "321 Burger Ave, Los Angeles, CA"
+    },
+    "dishes_offered": ["Classic Burger", "Truffle Fries", "Milkshakes"],
+    "images": [
+      "stall_4_dish_1.jpg"
+    ],
+    "youtube_recommendations": [
+      {
+        "blogger_name": "Burger Boss",
+        "video_title": "LA's Best Burgers",
+        "video_url": "https://www.youtube.com/watch?v=example7#t=1m50s",
+        "summary": "Burger Boss declares this the ultimate burger experience with perfectly cooked patties and amazing truffle fries.",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "stall_5",
+    "name": "Ramen Corner",
+    "location": {
+      "latitude": 34.0510,
+      "longitude": -118.2380,
+      "address": "654 Noodle Street, Los Angeles, CA"
+    },
+    "dishes_offered": ["Tonkotsu Ramen", "Gyoza", "Matcha Ice Cream"],
+    "images": [
+      "stall_5_dish_1.jpg",
+      "stall_5_exterior.jpg"
+    ],
+    "youtube_recommendations": [
+      {
+        "blogger_name": "Ramen Master",
+        "video_title": "Best Ramen in LA",
+        "video_url": "https://www.youtube.com/watch?v=example8#t=2m30s",
+        "summary": "Ramen Master praises the rich tonkotsu broth and perfectly cooked noodles, calling it authentic Japanese ramen.",
+        "sentiment": "positive"
+      },
+      {
+        "blogger_name": "Noodle Ninja",
+        "video_title": "LA Ramen Tour",
+        "video_url": "https://www.youtube.com/watch?v=example9#t=1m45s",
+        "summary": "Noodle Ninja highlights the crispy gyoza and recommends the matcha ice cream for dessert.",
+        "sentiment": "positive"
+      }
+    ]
+  }
+]
+
